@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Piyush Dhakad 👋
 
-<!--
-**piyushdhakad001/piyushdhakad001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer based in Bhopal, India, focused on building clean, accessible, and responsive user interfaces with React and modern JavaScript.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Tools & State:** Git, GitHub, LocalStorage, Context API, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Deployments
+- **Expense Tracker (React):** [Live Demo](https://your-link.vercel.app) | [Source Code](https://github.com/piyushdhakad001/react-expense-tracker)
+- **Kanban Board:** [Live Demo](https://your-link.vercel.app) | [Source Code](https://github.com/piyushdhakad001/js-kanban-board)
+- **Movie Explorer:** [Live Demo](https://your-link.vercel.app) | [Source Code](https://github.com/piyushdhakad001/react-movie-search-app)
+
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
