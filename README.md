@@ -11,4 +11,4 @@ Frontend developer based in Bhopal, India, focused on building clean, accessible
 - **Kanban Board:** [Live Demo](https://your-link.vercel.app) | [Source Code](https://github.com/piyushdhakad001/js-kanban-board)
 - **Movie Explorer:** [Live Demo](https://react-movie-search-app-umber.vercel.app/) | [Source Code](https://github.com/piyushdhakad001/react-movie-search-app)
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](piyushdhakad627@gmail.com)
+📫 **Connect with me:** [LinkedIn](https://linkedincom/in/you-profile) | [Email](piyushdhakad627@gmail.com)
